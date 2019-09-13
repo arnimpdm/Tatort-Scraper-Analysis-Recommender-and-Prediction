@@ -22,4 +22,8 @@ For this project the following steps are being done:
  
 We will start with the download and analysis of the data. Enjoy :)
 
-Please have a look at the Notebook.
+## Please open "Tatort Scraper, Analysis, Recommender and Prediction.ipynb"
+
+## Update: There seems to be (sometimes) a problem with the rendering of the ipynb file, please open the notebook here:
+
+https://nbviewer.jupyter.org/github/arnimpdm/Tatort-Scraper-Analysis-Recommender-and-Prediction/blob/master/Tatort%20Scraper%2C%20Analysis%2C%20Recommender%20and%20Prediction.ipynb
