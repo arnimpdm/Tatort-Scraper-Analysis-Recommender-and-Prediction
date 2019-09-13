@@ -21,3 +21,5 @@ For this project the following steps are being done:
  -Build a model to forecast votes<br>
  
 We will start with the download and analysis of the data. Enjoy :)
+
+Please have a look at the Notebook.
